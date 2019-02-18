@@ -1,7 +1,13 @@
-body{background-color: #E9ECEF}
-div.profile{margin: 0;}
-
-.profile img{width: 230px;height: 220px;border-radius: 50%;border: 1px solid grey; margin-top: 100px;}
-.profile h1{font-family: arial; color: #696969; font-size: 40px;}
-.profile p{font-family: arial; color: #696969; font-size: 20px;}
-.profile span{color: navy;}
+body{background-color: #E9ECEF; margin: 0; padding: 0}
+div.title{background-color: navy; padding: 1px;}
+div.title h1{color: white; margin-left: 10px;}
+div.form_profile{margin: 10px 100px 0px 10px; font-size: 16px;}
+div.form_profile input{margin-left: 10px; padding: 5px; margin-bottom: 10px;}
+div.form_profile input.nama{margin-left: 69px; padding: 5px; margin-bottom: 10px;}
+div.form_profile input.alamat{margin-left: 60px; padding: 5px; margin-bottom: 10px;}
+div.form_profile input.j_kelamin{margin-left: 16px; padding: 5px; margin-bottom: 10px;}
+div.form_profile input.umur{margin-left: 70px; padding: 5px; margin-bottom: 10px;}
+div.form_profile input.tmp_lahir{margin-left: 21px; padding: 5px; margin-bottom: 10px;}
+div.form_profile input.tgl_lahir{margin-left: 19px; padding: 5px; margin-bottom: 10px;}
+div.form_profile input.hobi{margin-left: 77px; padding: 5px; margin-bottom: 10px;}
+p{margin-left: 10px;}
