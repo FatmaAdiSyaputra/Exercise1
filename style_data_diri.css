@@ -1,0 +1,7 @@
+body{background-color: #E9ECEF}
+div.profile{margin: 0;}
+
+.profile img{width: 230px;height: 220px;border-radius: 50%;border: 1px solid grey; margin-top: 100px;}
+.profile h1{font-family: arial; color: #696969; font-size: 40px;}
+.profile p{font-family: arial; color: #696969; font-size: 20px;}
+.profile span{color: navy;}
